@@ -247,10 +247,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
             const statusClass = item.isCorrect ? "review-status correct-status" : "review-status";
             const statusText = item.isCorrect ? `Question ${item.index + 1} Correct!` : `Question ${item.index + 1} Incorrect`;
+            
+            const sourceHtml = q.source ? `<div class="question-source" style="margin-bottom: 0.5rem; display: block;">Source: ${q.source}</div>` : '';
 
             const cardHtml = `
                 <div class="review-card">
                     <span class="${statusClass}">${statusText}</span>
+                    ${sourceHtml}
                     <div class="question-text">${q.text}</div>
                     <div class="options-grid mb-4">
                         ${optionsHtml}
