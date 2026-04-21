@@ -2,6 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let allQuestions = [];
     let currentQuiz = [];
     let selectedAnswers = {}; // { questionId: [selectedOptions...] }
+    let seenQuestionIds = new Set();
     
     let timerInterval = null;
     let secondsElapsed = 0;
@@ -45,15 +46,21 @@ document.addEventListener('DOMContentLoaded', () => {
         clearInterval(timerInterval);
     }
 
-    // Start Quiz
-    document.getElementById('btn-start').addEventListener('click', () => {
+    function startQuiz() {
         if(allQuestions.length === 0) {
-            alert("Le domande si stanno ancora caricando, riprova tra un secondo.");
+            alert("Questions are still loading, please try again in a moment.");
             return;
         }
         
+        let pool = allQuestions.filter(q => !seenQuestionIds.has(q.id));
+        
+        if (pool.length < 25) {
+            alert("You have seen almost all questions! Resetting your history so you can keep practicing.");
+            seenQuestionIds.clear();
+            pool = [...allQuestions];
+        }
+        
         // Pick 25 random weighted
-        let pool = [...allQuestions];
         currentQuiz = [];
         while(currentQuiz.length < 25 && pool.length > 0) {
             let totalWeight = pool.reduce((sum, q) => sum + (q.weight || 1), 0);
@@ -63,6 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 sum += (pool[i].weight || 1);
                 if(rnd <= sum) {
                     currentQuiz.push(pool[i]);
+                    seenQuestionIds.add(pool[i].id);
                     pool.splice(i, 1);
                     break;
                 }
@@ -76,6 +84,17 @@ document.addEventListener('DOMContentLoaded', () => {
         renderQuestions();
         switchScreen('quiz');
         startTimer();
+        updateProgress();
+    }
+
+    // Start New Quiz (Clearing History)
+    document.getElementById('btn-start').addEventListener('click', () => {
+        seenQuestionIds.clear();
+        startQuiz();
+    });
+
+    document.getElementById('btn-try-again').addEventListener('click', () => {
+        startQuiz();
     });
 
     function renderQuestions() {
@@ -108,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
             
             card.innerHTML = `
                 <div class="question-number">
-                    <span>Domanda ${index + 1} di 25</span>
+                    <span>Question ${index + 1} of 25</span>
                     ${sourceHtml}
                 </div>
                 <div class="question-text">${q.text}</div>
@@ -148,7 +167,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 answered++;
             }
         }
-        document.querySelector('.progress span').innerText = `Domande da completare: ${25 - answered}`;
+        document.querySelector('.progress span').innerText = `Questions remaining: ${25 - answered}`;
     }
 
     document.getElementById('btn-finish').addEventListener('click', () => {
@@ -180,9 +199,12 @@ document.addEventListener('DOMContentLoaded', () => {
         // Build Results Screen
         document.getElementById('score-display').innerText = `${score} / 25`;
         document.getElementById('final-time-display').innerText = formatTime(secondsElapsed);
+        
+        // Show DB progress
+        document.getElementById('db-progress-msg').innerText = `You have answered ${seenQuestionIds.size} questions out of ${allQuestions.length} from the database. Keep it up!`;
 
         if(wrongQuestions.length === 0) {
-            reviewContainer.innerHTML = `<p style="text-align: center; color: var(--success-color); font-weight: bold; font-size: 1.2rem;">Risultato Perfetto! Nessun Errore.</p>`;
+            reviewContainer.innerHTML = `<p style="text-align: center; color: var(--success-color); font-weight: bold; font-size: 1.2rem;">Perfect Score! No Errors.</p>`;
         } else {
             wrongQuestions.forEach(item => {
                 const q = item.question;
@@ -217,14 +239,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const explainHtml = q.explanation ? `
                     <div class="review-explanation">
-                        <span class="review-explanation-title">Spiegazione:</span>
+                        <span class="review-explanation-title">Explanation:</span>
                         <p>${q.explanation.replace(/\n/g, '<br>')}</p>
                     </div>
                 ` : '';
 
                 const cardHtml = `
                     <div class="review-card">
-                        <span class="review-status">Domanda ${item.index + 1} Errata</span>
+                        <span class="review-status">Question ${item.index + 1} Incorrect</span>
                         <div class="question-text">${q.text}</div>
                         <div class="options-grid mb-4">
                             ${optionsHtml}
@@ -240,6 +262,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     document.getElementById('btn-restart').addEventListener('click', () => {
+        seenQuestionIds.clear();
         switchScreen('start');
     });
 
