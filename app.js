@@ -18,19 +18,6 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(res => res.json())
         .then(data => {
             allQuestions = data;
-            
-            // Populate topic select
-            let allSources = new Set();
-            allQuestions.forEach(q => {
-                if(q.source) allSources.add(q.source);
-            });
-            const select = document.getElementById('topic-select');
-            [...allSources].sort().forEach(src => {
-                let opt = document.createElement('option');
-                opt.value = src;
-                opt.textContent = src;
-                select.appendChild(opt);
-            });
         })
         .catch(err => console.error("Failed to load questions", err));
 
@@ -65,29 +52,15 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
         
-        const selectedTopic = document.getElementById('topic-select').value;
-        
         let pool = allQuestions.filter(q => !seenQuestionIds.has(q.id));
         
-        // Filter by topic if not ALL
-        if (selectedTopic !== "ALL") {
-            pool = pool.filter(q => q.source === selectedTopic);
-        }
-        
-        if (pool.length === 0 && selectedTopic !== "ALL") {
-            alert(`You have seen all questions for the topic: ${selectedTopic}. Resetting topic history.`);
-            seenQuestionIds.clear();
-            pool = allQuestions.filter(q => q.source === selectedTopic);
-        } else if (pool.length < 25 && selectedTopic === "ALL") {
+        if (pool.length < 25) {
             alert("You have seen almost all questions! Resetting your history so you can keep practicing.");
             seenQuestionIds.clear();
             pool = [...allQuestions];
-        } else if (pool.length === 0) {
-            seenQuestionIds.clear();
-            pool = [...allQuestions];
         }
         
-        // Pick 25 random weighted (or all if < 25 available for a specific topic)
+        // Pick 25 random weighted
         let numToPick = Math.min(25, pool.length);
         currentQuiz = [];
         while(currentQuiz.length < numToPick && pool.length > 0) {
@@ -231,8 +204,6 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('final-time-display').innerText = formatTime(secondsElapsed);
         
         // Show DB progress
-        const selectedTopic = document.getElementById('topic-select').value;
-        let poolSizeForTopic = selectedTopic === "ALL" ? allQuestions.length : allQuestions.filter(q => q.source === selectedTopic).length;
         document.getElementById('db-progress-msg').innerText = `You have answered ${seenQuestionIds.size} total questions across your session. Great job!`;
 
         reviewedQuestions.forEach(item => {
