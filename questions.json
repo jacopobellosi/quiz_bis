@@ -27,8 +27,8 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "Le slide indicano chiaramente due concetti interconnessi: la razionalità limitata rappresenta il limite o la \"limitata capacità degli individui di elaborare informazioni\" (Opzione B) e, proprio a causa di questo limite, essa genera la necessità di cooperare per raggiungere un obiettivo (Opzione A)."
   },
@@ -76,8 +76,8 @@
     "source": "January 2025; June 2025; April 2025 Mid-Term",
     "weight": 1.4,
     "correct_answers": [
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Le slide finali sull'Agency Theory indicano esplicitamente queste due limitazioni: ignora i meccanismi gerarchici che a volte avvengono nel mercato (es. un cliente che controlla il processo produttivo di un fornitore) e trascura completamente l'incertezza causata dalla *natura del task* stesso."
   },
@@ -109,8 +109,8 @@
     "source": "April 2025 Mid-Term (CORRECT-QUESTIONS file)",
     "weight": 1.0,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Le opzioni B e C riportano le definizioni testuali di Williamson. Una transazione serve a superare la razionalità limitata scambiando denaro in cambio di beni/servizi. (Le opzioni A e D sono errate perché una transazione economica non corrisponde automaticamente a un semplice \"record nel database\")."
   },
@@ -159,8 +159,8 @@
     "source": "July 2024",
     "weight": 1.0,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "La fase finale di post-settlement prende in ingresso eventuali anomalie o difetti (*exceptions*) emersi dopo l'esecuzione e fornisce in uscita le procedure di risoluzione/gestione delle anomalie."
   },
@@ -176,8 +176,8 @@
     "source": "January 2025; January 2025 (30th); April 2025 Mid-Term",
     "weight": 1.4,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "L'acquisto di un bene di consumo è vicino a un mercato perfetto, dove è difficile differenziarsi; quindi, la scelta è basata sul prezzo e non c'è negoziazione, sebbene gli sconti possano far cambiare idea/requisiti all'acquirente. (La A è errata perché il pagamento deve essere \"fast\", non necessariamente \"cash\")."
   },
@@ -194,10 +194,10 @@
     "source": "September 2024; June 2025",
     "weight": 1.2,
     "correct_answers": [
-      "D",
       "E",
-      "C",
-      "B"
+      "D",
+      "B",
+      "C"
     ],
     "explanation": "Tutte queste quattro opzioni sono indicate nelle slide come vere per l'acquisto di beni di lusso, che è lontano dal mercato perfetto. È basato sulla fiducia (brand equity), richiede pagamenti sicuri (secure), ammette forti variazioni di requisiti se la qualità percepita è alta e richiede la sostituzione in caso di difetti per essere competitivi. L'unica errata è la A (il pagamento non deve essere \"flexible\" ma \"secure\")."
   },
@@ -245,8 +245,8 @@
     "source": "September 2024 (Domande-TDE)",
     "weight": 1.0,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Nella Teoria delle Decisioni, l'incertezza è proprio la variabile usata per descrivere l'ambiente esterno ed è definita come la misura di quanto l'azienda sia (in)capace di prevedere la domanda del mercato."
   },
@@ -263,8 +263,8 @@
     "weight": 1.6,
     "correct_answers": [
       "D",
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Un sistema informativo orizzontale serve per scambi diretti tra unità dello stesso livello. Inoltre, la scala incrementale per sopportare un'incertezza sempre maggiore è: Liaison roles -> Task force -> Teams -> Matrix structures. Le opzioni C e D descrivono correttamente questo ordine. L'opzione A è sbagliata perché un sistema orizzontale comporta una *maggiore* (higher) delega, non minore (lower)."
   },
@@ -377,8 +377,8 @@
     "source": "April 2024 Mid-Term; June 2024",
     "weight": 1.2,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "Tra le convinzioni tradizionali sulle tecnologie (pre-IT), ci sono l'aumento della specializzazione individuale (A) e l'aumento della \"optimal minimum organizational size\", che porta a organizzazioni di dimensioni maggiori (B),. L'opzione C è falsa perché l'innovazione tecnica tradizionale *aumenta* (affect) la formalizzazione e la burocrazia. L'opzione D è falsa perché le tecnologie tradizionali aumentano l'*efficienza* (efficiency), non l'efficacia (effectiveness),,."
   },
@@ -442,8 +442,8 @@
     "source": "September 2024; January 2025 (8th); July 2024",
     "weight": 1.4,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "Entrambe le definizioni sono esatte. Le informazioni di transazione descrivono il flusso delle attività operative e gli scambi, e rappresentano la categoria di gran lunga più grande in termini di volume di dati generati. Le altre opzioni sono false: i piani di produzione sono un esempio di \"operations planning information\" (non transazioni), e le informazioni più complesse in termini di attributi sono quelle del \"catalog\"."
   },
@@ -476,14 +476,14 @@
     "source": "January 2025 (30th); April 2025 Mid-Term (CORRECT-QUESTIONS)",
     "weight": 1.2,
     "correct_answers": [
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Le informazioni di catalogo rappresentano una conoscenza di base relativamente statica (es. anagrafica clienti, catalogo prodotti), indipendente dal flusso quotidiano delle attività. Pur essendo le meno voluminose (al contrario di quanto afferma l'opzione B), sono di gran lunga le più complesse per numero di attributi e struttura. Anche qui, l'opzione sui \"Production plans\" è errata."
   },
   {
     "id": "30",
-    "text": "What are correct statements on the product structure (catalog information)?",
+    "text": "What are correct statements on the product structure (catalog information)? 2. Operational Manufacturing Portfolio",
     "options": {
       "A": "The product structure is used to record transactions.",
       "B": "The product structure is used in MRP.",
@@ -494,8 +494,8 @@
     "weight": 1.0,
     "correct_answers": [
       "D",
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "La \"product structure\" (la distinta base di un prodotto) è un tipo molto importante di informazione di catalogo ed è descritta come una struttura gerarchica che va dai componenti elementari al prodotto finito. Inoltre, è il fulcro su cui si basa il calcolo del sistema MRP (Materials Requirements Planning) per derivare il fabbisogno di materiali. L'opzione A è falsa perché la product structure non serve a registrare le transazioni (che spettano alle \"transaction information\")."
   },
@@ -527,8 +527,8 @@
     "source": "April 2025 Mid-Term (CORRECT-QUESTIONS)",
     "weight": 1.0,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Come specificato storicamente nei test e nel materiale, le tecnologie degli anni '60/'70 che hanno abilitato l'approccio CIM in ambito manifatturiero sono state i mini computer (che hanno decentralizzato la potenza di calcolo) e i robot/macchine a controllo numerico. L'MRP è un sistema successivo che si appoggia al CIM, mentre i Personal Computer (PC) sono stati la tecnologia abilitante per i servizi, non per il CIM manifatturiero."
   },
@@ -560,8 +560,8 @@
     "source": "September 2024; January 2025 (8th); January 2025 (30th); April 2025 Mid-Term",
     "weight": 1.6,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "L'MRP non è solo un software, ma richiede un profondo cambiamento organizzativo e di progettazione. Per funzionare e garantire vere economie di scopo, le aziende devono riprogettare i prodotti affinché condividano il maggior numero possibile di componenti di base (\"Concurrent engineering\") e riorganizzare i processi produttivi in modo da ritardare la differenziazione esterna del prodotto (\"Inside-out production\"). L'esame testa regolarmente questa accoppiata."
   },
@@ -577,8 +577,8 @@
     "source": "June 2025",
     "weight": 1.0,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "L'MRP (Materials Requirements Planning) si basa su due concetti fondamentali per ottenere flessibilità ed economie di scopo: il \"Concurrent engineering\" (progettare i prodotti in modo che condividano i componenti di base) e i processi di produzione \"Inside-out\" (iniziare l'assemblaggio dai componenti base verso l'esterno, ritardando la differenziazione al termine del processo). Le opzioni A e D definiscono i processi inter-funzionali, non gli abilitatori (enablers) dell'MRP."
   },
@@ -594,8 +594,8 @@
     "source": "June 2025",
     "weight": 1.0,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "Il ciclo logistico (Logistic cycle) si occupa di gestire gli ordini dei clienti e le sue attività corrette sono: Approvvigionamento (Procurement), Produzione fisica (Production) e Vendite/Distribuzione (Sales and distribution). Ricerca e Sviluppo (R&D) e Industrializzazione fanno invece parte dell'altro ciclo, il *Development cycle*."
   },
@@ -628,8 +628,8 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Le slide sull'ABC affermano letteralmente che le operazioni sono associate ai costi e a un sistema di \"internal pricing\". L'opzione B è falsa perché l'ABC fa parte delle funzionalità esecutive (non dell'extended ERP). L'opzione D è falsa perché, al contrario di quanto scritto, l'ABC serve proprio a poter RICONCILIARE i progressi con i flussi di cassa amministrativi."
   },
@@ -645,8 +645,8 @@
     "source": "June 2024; July 2024; April 2025 Mid-Term (CORRECT-QUESTIONS)",
     "weight": 1.4,
     "correct_answers": [
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Questa è la risposta esatta che si trova nei test. L'ABC non completa da solo l'integrazione orizzontale o verticale dei tre portafogli (quello è il ruolo generale del sistema ERP nel suo complesso), ma è il modulo specifico che associa i costi alle attività per riconciliarli con i flussi di cassa reali gestiti dall'amministrazione."
   },
@@ -662,9 +662,9 @@
     "source": "September 2024",
     "weight": 1.0,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "In un'azienda manifatturiera, i processi informativi inter-funzionali corretti sono gestione materiali, gestione operazioni e gestione ordini. Il \"Knowledge management\" (Opzione D) non si usa nel manifatturiero, ma sostituisce il \"Materials management\" nelle aziende di servizi."
   },
@@ -681,9 +681,9 @@
     "weight": 1.2,
     "correct_answers": [
       "D",
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Tutte le 4 affermazioni si trovano testualmente tra i quiz del corso:\n    *   Nei servizi, l'IT è una tecnologia di produzione (A).\n    *   Nei servizi, l'IT è simultaneamente una tecnologia di produzione e di distribuzione (B).\n    *   I servizi sono fatti di \"bits\", il manufacturing di \"atomi\" (C).\n    *   I servizi vengono prodotti nello stesso momento in cui vengono distribuiti/erogati (D)."
   },
@@ -699,9 +699,9 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Le prime tre opzioni sono affermazioni veritiere che marcano la differenza tra i due settori. L'opzione D è un trabocchetto ed è falsa: afferma erroneamente che i prodotti del *manufacturing* (anziché i servizi) vengono prodotti mentre vengono distribuiti."
   },
@@ -709,7 +709,7 @@
     "id": "43",
     "text": "What are the main differences between interfunctional information processes in manufacturing and services?",
     "options": {
-      "A": "In services, operations management is replaced by knowledge management.",
+      "A": "In services, operations management is replaced by knowledge management. 3. Operational Portfolio in Service Companies",
       "B": "In services, materials management is replaced by knowledge management.",
       "C": "In services, materials management and operations management coincide.",
       "D": "In services, order management and operations management coincide."
@@ -717,8 +717,8 @@
     "source": "June 2024; July 2024; June 2024 (bis1_June)",
     "weight": 1.4,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "Nei servizi non c'è materia fisica, quindi il \"materials management\" viene sostituito dal \"knowledge management\" per raccogliere dati sui clienti. Inoltre, poiché nei servizi la produzione e la distribuzione (vendita) avvengono nello stesso istante (service delivery), i processi di \"order management\" e \"operations management\" si sovrappongono e coincidono."
   },
@@ -734,8 +734,8 @@
     "source": "September 2024; January 2025 (8th); July 2024; April 2025 Mid-Term (CORRECT-",
     "weight": 1.6,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Come spiegato nelle slide sulla differenza tra manifatturiero e servizi, nei servizi non c'è materia fisica (atomi) da gestire, ma solo informazione (bit). Pertanto, il processo di \"Materials management\" tipico del manifatturiero viene sostituito nei servizi dal \"Knowledge management\", che gestisce la conoscenza immateriale. Le opzioni A e D sono errate (entrambi sono processi *operativi* e non c'è una distinzione di \"durata di vita\" tra i due)."
   },
@@ -768,8 +768,8 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Nel settore dei servizi, l'integrazione è avvenuta storicamente grazie a due tecnologie abilitanti specifiche: i *Personal Computer (PCs)* hanno abilitato l'integrazione orizzontale, mentre le *Architetture Client-Server* hanno abilitato l'integrazione verticale. Il CIM (opzione A) è la tecnologia abilitante per il manifatturiero, non per i servizi."
   },
@@ -785,8 +785,8 @@
     "source": "June 2024; June 2024 (bis1_June)",
     "weight": 1.2,
     "correct_answers": [
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Il BPR in aziende di servizi (come nel caso Cigna Insurance) mira a superare la \"barriera della conoscenza\". Lo fa trasformando i lavoratori da specialisti a generalisti (quindi *diminuendo* il grado di specializzazione individuale) e dando loro maggiore potere decisionale sui risultati di business (quindi *aumentando* il livello di delega)."
   },
@@ -802,8 +802,8 @@
     "source": "July 2024",
     "weight": 1.0,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "In linea con la domanda precedente, i PC non sostituiscono il lavoro umano ma fungono da supporto fondamentale per i *knowledge workers* durante le attività di produzione del servizio. Inoltre, incorporando le procedure complesse nel software, i PC permettono ai lavoratori di operare su una gamma più ampia di servizi, aiutando così a *diminuire* la specializzazione individuale."
   },
@@ -836,8 +836,8 @@
     "source": "September 2024",
     "weight": 1.0,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "Entrambe le definizioni sono corrette e presenti nel materiale d'esame. Le architetture client-server sono state rivoluzionarie perché, per la prima volta, hanno permesso di collegare i PC periferici (client) con i database centrali (mainframe/server). Questo collegamento ha abilitato un flusso di informazioni fluido (integrazione tra PC e mainframe) e, di conseguenza, ha reso possibile l'integrazione verticale mettendo i dati operativi a disposizione delle funzionalità esecutive (executive portfolio)."
   },
@@ -853,8 +853,8 @@
     "source": "June 2025",
     "weight": 1.0,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "Secondo la catena del valore di Porter rivisitata per le aziende di servizi, i processi primari (primary processes) includono: *Service set-up, Back-office tasks, Front-office tasks* e *Marketing & sales*. Le opzioni C (Accounting and finance) e D (Research and development) sono errate perché fanno parte dei processi di supporto (support processes)."
   },
@@ -870,8 +870,8 @@
     "source": "April 2025 Mid-Term; April 2025 Mid-Term (CORRECT-QUESTIONS)",
     "weight": 1.2,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "Nelle aziende di servizi, la produzione e la distribuzione avvengono simultaneamente. Questo \"overlap\" (sovrapposizione) tra produzione e distribuzione è chiamato *service delivery*. Inoltre, guardando la mappa dei processi, il service delivery raggruppa esattamente le attività di *back-office* e *front-office*."
   },
@@ -903,8 +903,8 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "La mappa funzionale degli *Executive Information Systems* si divide in 5 grandi macro-aree (functional areas/pillars). Tra queste troviamo la *Financial performance* (che include budgeting, ABC, ecc.) e la *Process performance* (che include le dashboard manageriali). Le opzioni C e D sono distrattori errati (fanno riferimento a metriche specifiche, non alle aree funzionali)."
   },
@@ -921,9 +921,9 @@
     "weight": 1.2,
     "correct_answers": [
       "D",
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "In alcune versioni del test, i 5 pilastri della mappa funzionale vengono testati tutti insieme. Tutte e 4 queste opzioni rappresentano le macro-aree/funzionalità corrette del portafoglio esecutivo (la quinta sarebbe \"Information to stakeholders\")."
   },
@@ -931,7 +931,7 @@
     "id": "56",
     "text": "What are the three levels of the traditional control model in executive information systems?",
     "options": {
-      "A": "Strategic control.",
+      "A": "Strategic control. 4. Executive Portfolio",
       "B": "Operational control.",
       "C": "Management control.",
       "D": "Administrative control."
@@ -939,9 +939,9 @@
     "source": "July 2024; January 2025 (30th); June 2025; April 2025 Mid-Term",
     "weight": 1.6,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Secondo la tradizionale Piramide di Anthony, il modello di controllo si divide esattamente in questi tre livelli: controllo strategico (obiettivi di business generali), controllo di gestione (budgeting e risorse finanziarie) e controllo operativo (attività operative). L'\"Administrative control\" (Opzione D) non esiste in questa piramide."
   },
@@ -957,8 +957,8 @@
     "source": "April 2025 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "è così nel example exam*."
   },
@@ -990,9 +990,9 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Il metodo CSF si compone di quattro fasi ben precise. Le opzioni A, B e C riportano i nomi e le descrizioni corrette di tre di queste fasi. L'opzione D è falsa perché l'intervista (la seconda fase) viene fatta ai *top managers* (per capire la loro visione strategica) e non ai *knowledge workers*."
   },
@@ -1041,8 +1041,8 @@
     "source": "June 2024; June 2024 (bis1_June)",
     "weight": 1.2,
     "correct_answers": [
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Tra i criteri elencati dalla teoria per valutare e selezionare un KPI nella fase di Robustness Analysis troviamo: il costo dell'informazione (Cost), la significatività (Significance), la frequenza di aggiornamento (Frequency) e il grado di strutturazione (Structuredness). \"Reliability\" e \"Impact on revenues\" non fanno parte di questa specifica lista."
   },
@@ -1058,8 +1058,8 @@
     "source": "June 2024; July 2024; September 2024; January 2025 (8th); January 2025 (30th); April 2025",
     "weight": 2.0,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "Poiché i CSF sono costrutti complessi e astratti (es. l'attrattiva del design di un'auto), non possono essere misurati da un singolo numero, ma devono essere associati a molteplici KPI, ognuno dei quali misura il CSF con un grado di significatività diverso. Questo rende falsa l'opzione C. L'opzione D è un classico distrattore scartato nelle correzioni d'esame."
   },
@@ -1108,8 +1108,8 @@
     "source": "June 2025",
     "weight": 1.0,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Il tempo (Time) è costantemente citato nelle slide come una delle dimensioni tipiche principali per l'analisi dei KPI. Inoltre, nella teoria dei data warehouse, le chiavi delle tabelle delle dimensioni vengono migrate nella *fact table* (tabella dei fatti) per formare la sua chiave primaria composta. L'opzione A (Personnel) non è una dimensione standard tra quelle menzionate dal corso (che sono invece Product, Customer, Time, Organizational function, ecc.)."
   },
@@ -1142,9 +1142,9 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Le funzioni tipiche del portafoglio amministrativo coprono i processi burocratici di base: contabilità e tasse, finanza, e risorse umane. L'\"Executive reporting\" (Opzione D) appartiene invece all'Executive portfolio."
   },
@@ -1170,7 +1170,7 @@
     "text": "What is process prescriptiveness in ERPs?",
     "options": {
       "A": "Process prescriptiveness refers to the fact that ERPs are packages embedding predefined service processes.",
-      "B": "Process prescriptiveness refers to the fact that ERPs are packages embedding a process logic that is predefined (unlike custom-made software which is designed to embed a specific client's processes).",
+      "B": "Process prescriptiveness refers to the fact that ERPs are packages embedding a process logic that is predefined (unlike custom-made software which is designed to embed a specific client's processes). 5. ERPs",
       "C": "Process prescriptiveness refers to the fact that ERPs are packages embedding predefined operational management rules.",
       "D": "Process prescriptiveness refers to the fact that ERPs are packages embedding predefined procurement processes."
     },
@@ -1197,12 +1197,12 @@
     "source": "June 2024; January 2025 (30th); June 2025; April 2025 Mid-Term",
     "weight": 1.6,
     "correct_answers": [
-      "H",
-      "E",
-      "A",
       "D",
       "G",
-      "F"
+      "E",
+      "H",
+      "F",
+      "A"
     ],
     "explanation": "Tutte queste sei affermazioni sono considerate corrette nel materiale del corso e nei test. Le due opzioni da scartare sono la B (i moduli ERP si dividono in *core* ed *extended*, non *overhead*) e la C (gli ERP completano l'integrazione di operativo ed esecutivo *CON* il portafoglio amministrativo, non si limitano a integrare operativo ed esecutivo tra loro)."
   },
@@ -1218,8 +1218,8 @@
     "source": "April 2024 Mid-Term; January 2025 (8th)",
     "weight": 1.2,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "Le \"soluzioni verticali\" sono versioni di un ERP personalizzate per rispondere ai requisiti precisi di una specifica industria. Sono inoltre molto dettagliate (*fine grained*), al punto da offrire soluzioni diverse per settori simili come l'industria tessile e quella della moda (es. il caso Porini). L'opzione A è troppo generica (non si limitano alla distinzione macro tra manifatturiero e servizi, ma scendono nel dettaglio industriale)."
   },
@@ -1284,9 +1284,9 @@
     "source": "June 2024; June 2024 (bis1_June)",
     "weight": 1.2,
     "correct_answers": [
+      "B",
       "D",
-      "A",
-      "B"
+      "A"
     ],
     "explanation": "L'Extended ERP contiene i moduli che collegano l'azienda verso l'esterno (clienti e fornitori). Come mostrato nella mappa funzionale, eCommerce (tramite i portali web), SCM (Supply Chain Management) ed eProcurement fanno parte dei sistemi inter-organizzativi o estesi. L'opzione C (Finance) è errata perché è un modulo \"core\" interno appartenente al portafoglio amministrativo."
   },
@@ -1303,8 +1303,8 @@
     "weight": 1.0,
     "correct_answers": [
       "D",
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "La \"vision\" del CRM si compone esattamente di queste tre macro-aree: operativo (front-end con i clienti), analitico (analisi dei dati) ed esecutivo (dashboard per il management). I \"Legacy systems\" (Opzione A) non sono un modulo del CRM, ma i vecchi sistemi aziendali preesistenti da cui spesso si estraggono i dati."
   },
@@ -1327,7 +1327,7 @@
   },
   {
     "id": "79",
-    "text": "What are typical modules of operational CRM?",
+    "text": "What are typical modules of operational CRM? 6. CRMs",
     "options": {
       "A": "Call center.",
       "B": "Mobile.",
@@ -1337,9 +1337,9 @@
     "source": "September 2024; January 2025 (8th); July 2024",
     "weight": 1.4,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Le slide indicano esplicitamente i canali di distribuzione/moduli che compongono il CRM operativo: negozi/agenzie, sales force (forza vendita), call center, Web, mobile e posta. Il \"Customer care\" (Opzione D) viene considerato un processo di business o un'attività della catena del valore, non un modulo software di canale."
   },
@@ -1355,8 +1355,8 @@
     "source": "June 2024; June 2024 (bis1_June)",
     "weight": 1.2,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Il CRM analitico lavora dietro le quinte analizzando i dati storici e le sue funzionalità principali sono tre: *Data mining*, profilazione del cliente (*Customer profiling*) e gestione delle campagne di marketing (*Campaign management*). L'Activity Based Costing (Opzione A) fa parte del portafoglio esecutivo, mentre la selezione e l'analisi dei \"Customer KPIs\" (Opzione D) appartengono all'Executive CRM."
   },
@@ -1375,8 +1375,8 @@
     "weight": 1.4,
     "correct_answers": [
       "E",
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Le slide indicano esplicitamente che le tre componenti fondamentali del CRM Analitico sono il *Mining* (estrazione di pattern), il *Customer profiling* (segmentazione comportamentale) e il *Campaign management* (gestione delle campagne). L'opzione F (Reporting) è un distrattore molto comune, ma nella \"CRM vision\" del corso la reportistica pura fa parte dell'*Executive CRM*, mentre Customer care e Call center fanno parte del CRM Operativo."
   },
@@ -1408,9 +1408,9 @@
     "source": "September 2024; January 2025 (8th); January 2025 (30th)",
     "weight": 1.4,
     "correct_answers": [
+      "B",
       "D",
-      "A",
-      "B"
+      "A"
     ],
     "explanation": "Il *Campaign management* si divide in 4 fasi. Nella fase di \"Design\" (progettazione) le decisioni corrette sono: definire i clienti target, definire l'offerta, scegliere i canali e definire le tempistiche (schedule). L'opzione C (Definition of budget) è errata perché il budget viene stabilito nella fase precedente, ovvero \"Planning & budgeting\"."
   },
@@ -1426,9 +1426,9 @@
     "source": "June 2024; June 2024 (bis1_June)",
     "weight": 1.2,
     "correct_answers": [
+      "B",
       "D",
-      "A",
-      "B"
+      "A"
     ],
     "explanation": "Secondo l'approccio del CRM Analitico per la profilazione dei clienti, le tre dimensioni di base per segmentare il mercato sono: la fedeltà (Loyalty), la sensibilità al prezzo (Price sensitivity) e lo stile di vita (Lifestyle). L'opzione C (Time) è un distrattore: il tempo è una dimensione tipica dei KPI in un Data Warehouse, non una dimensione di segmentazione del cliente."
   },
@@ -1445,8 +1445,8 @@
     "weight": 1.0,
     "correct_answers": [
       "D",
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "È la stessa logica della domanda precedente, formulata in modo leggermente diverso. Le dimensioni corrette sono sempre Lifestyle, Loyalty e Price sensitivity. \"Targeting\" (Opzione B) è errato perché non è una dimensione di segmentazione, ma l'*azione* che si compie *dopo* aver segmentato il mercato."
   },
@@ -1462,8 +1462,8 @@
     "source": "July 2024",
     "weight": 1.0,
     "correct_answers": [
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Entrambe queste frasi sono riportate letteralmente nelle slide. La segmentazione serve a indirizzare (target) le promozioni verso specifici segmenti e a usare le caratteristiche medie di quel segmento per completare le informazioni mancanti sui singoli clienti. Le opzioni relative alla \"validation\" (B e D) sono inventate."
   },
@@ -1497,9 +1497,9 @@
     "weight": 1.6,
     "correct_answers": [
       "E",
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Basandosi sulle videate di esempio (come Siebel) e sulle funzionalità SFA studiate, il software fornisce all'agente: il calendario delle attività, le informazioni anagrafiche/storiche sui clienti, la gerarchia organizzativa per capire chi prende le decisioni d'acquisto (decision makers) e gli strumenti per configurare fisicamente le offerte. L'opzione D (\"Shops and budgets\") è un distrattore errato."
   },
@@ -1549,8 +1549,8 @@
     "source": "January 2025 (8th); January 2025 (30th); April 2025 Mid-Term; June 2025; April 2025 Mid-",
     "weight": 1.8,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "Le slide sul CRM operativo evidenziano che il canale fisico (es. forza vendita diretta) è molto costoso da mantenere. Per questo motivo, è adatto principalmente per prodotti \"ricchi\" (cioè complessi o ad alto valore aggiunto) ed è usato tipicamente nel mercato B2B (Business-to-Business)."
   },
@@ -1583,8 +1583,8 @@
     "source": "September 2024; July 2024",
     "weight": 1.2,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "Il server CTI è la tecnologia chiave dell'architettura integrata. Il suo ruolo è integrare la rete telefonica con la rete informatica dell'azienda, facendo sì che il telefono venga gestito dal sistema come una normale periferica hardware, permettendo di mostrare in tempo reale i dati del cliente sullo schermo dell'operatore. La distribuzione automatica delle chiamate (Opzione D) è invece compito dell'hardware PABX/ACD."
   },
@@ -1617,8 +1617,8 @@
     "source": "September 2024 (Domande-TDE)",
     "weight": 1.0,
     "correct_answers": [
-      "A",
-      "B"
+      "B",
+      "A"
     ],
     "explanation": "L'architettura \"Full automation\" è un'evoluzione di quella integrata. Perciò è a tutti gli effetti collegata al sistema informativo (Opzione B) e, in aggiunta, include sistemi semplici ma altamente efficaci di automazione, come l'IVR (risposte interattive) e l'ASR (Automated Speech Recognition, per il riconoscimento vocale)."
   },
@@ -1667,8 +1667,8 @@
     "weight": 1.4,
     "correct_answers": [
       "D",
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Per monitorare le prestazioni del call center (verificando il rispetto degli SLA) si misurano l'efficacia e l'efficienza. Gli indicatori tipici elencati nelle slide sono proprio: percentuale di chiamate con tempo di attesa sotto una certa soglia (es. 15 secondi), durata media della chiamata (efficienza), e la risoluzione del problema alla prima chiamata (First call resolution - efficacia). Le chiamate in uscita (\"outbound\") sono legate alle campagne, non alle metriche standard di gestione dell'inbound."
   },
@@ -1685,9 +1685,9 @@
     "source": "April 2024 Mid-Term; June 2025; April 2025 Mid-Term",
     "weight": 1.4,
     "correct_answers": [
+      "B",
       "D",
-      "A",
-      "B"
+      "A"
     ],
     "explanation": "Come visto nella prima parte del riassunto su Reply, i modelli contrattuali (\"Way of Working\") utilizzati nelle società di consulenza per progetti IT sono Time and Material, Turnkey (chiavi in mano), Service. L'opzione \"Design and Development\" (C) è un distrattore fittizio."
   },
@@ -1712,7 +1712,7 @@
     "text": "According to Reply's perspective, what is the best contract model when you are developing a software application and the project requirements are expected to evolve during the development process?",
     "options": {
       "A": "Turnkey.",
-      "B": "Licensing.",
+      "B": "Licensing. 7. Reply's Questions",
       "C": "Time and material.",
       "D": "Service."
     },
@@ -1751,9 +1751,9 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "Guardando l'architettura orizzontale del Data Framework presentata nelle slide di Reply, i layer corretti sono Data Layers & Cloud, Data integration & virtualization, Data analytics & machine learning e Data discovery & visualization. L'opzione D (\"Data life cycle management\") non fa parte di questi layer."
   },
@@ -1769,8 +1769,8 @@
     "source": "June 2024; July 2024; September 2024; January 2025 (8th); January 2025 (30th)",
     "weight": 1.8,
     "correct_answers": [
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "I test d'esame e le slide indicano che la Data Governance funge da fattore abilitante (enabler) per la monetizzazione dei dati (Data monetization) e per l'erogazione dei dati come servizio (Data as a service). Le opzioni sulla *Customer retention* e *Customer satisfaction* sono dei distrattori e sono sempre errate."
   },
@@ -1836,8 +1836,8 @@
     "weight": 1.0,
     "correct_answers": [
       "D",
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Tutte e tre queste affermazioni derivano testualmente dalle slide di definizione del DWH fornite nel modulo di Mosconi e sono marcate come corrette nei quiz. L'opzione B è falsa perché, a differenza del Data Lake, un Data Warehouse *impone* (enforce) un rigido schema sui dati al momento della loro ingestione (schema-on-write)."
   },
@@ -1853,8 +1853,8 @@
     "source": "September 2024 (Domande-TDE)",
     "weight": 1.0,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "Le slide di Reply sul *Data Lake* specificano chiaramente che questo sistema permette di immagazzinare dati grezzi in qualsiasi formato (strutturati, non strutturati e semi-strutturati). Inoltre, a differenza del Data Warehouse, il Data Lake non impone alcuno schema ai dati nel momento in cui vengono ingeriti (\"does not enforce a schema on the data when it is ingested\", ovvero *schema-on-read*). L'opzione A è falsa perché nessuno dei due sistemi è progettato per le transazioni operative (ma per l'analisi); l'opzione C è falsa in quanto il Data Lake è progettato per scalare su volumi immensi (Big Data)."
   },
@@ -1903,9 +1903,9 @@
     "source": "January 2025 (8th)",
     "weight": 1.0,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "La slide dedicata al \"Data Quality\" di Target Reply elenca esplicitamente le componenti che costituiscono il framework: la definizione di regole parametriche riutilizzabili e configurabili, la definizione di specifiche azioni per ogni singola regola, e il log completo di tutti i controlli eseguiti. L'opzione D è errata perché le policy di Data Governance costituiscono l'ombrello normativo di alto livello e non sono una componente tecnica del framework operativo di Data Quality."
   },
@@ -1921,15 +1921,15 @@
     "source": "April 2025 Mid-Term; April 2025 Mid-Term (CORRECT-QUESTIONS)",
     "weight": 1.2,
     "correct_answers": [
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "I tre ruoli chiave legati al mondo dei dati individuati da Reply nei test d'esame sono l'architetto dei dati (Data Architect), lo scienziato dei dati (Data Scientist) e l'ingegnere dei dati (Data Engineer). Come sottolineato nella nostra conversazione precedente, il \"Data integrator\" (Opzione D) è un ruolo inventato inserito unicamente come trabocchetto."
   },
   {
     "id": "114",
-    "text": "According to SDG, what are typical measures of data quality?",
+    "text": "According to Reply, what are typical measures of data quality?",
     "options": {
       "A": "Completeness.",
       "B": "Persistency.",
@@ -1940,8 +1940,8 @@
     "weight": 1.0,
     "correct_answers": [
       "D",
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Le misurazioni standard della qualità del dato si basano su criteri qualitativi ben definiti. La completezza dell'informazione (Completeness), la sua tempestività/aggiornamento (Timeliness) e l'assenza di errori che ne determina l'accuratezza (Absence of errors) sono gli indicatori tipici per valutare la salute di un dataset. L'opzione B (\"Persistency\", persistenza) è invece una caratteristica tecnica legata allo storage (salvataggio permanente) e non misura in alcun modo la *qualità* dei dati."
   },
@@ -1974,10 +1974,10 @@
     "source": "April 2024 Mid-Term; September 2024 (Domande-TDE)",
     "weight": 1.2,
     "correct_answers": [
-      "D",
       "E",
-      "A",
-      "B"
+      "B",
+      "D",
+      "A"
     ],
     "explanation": "Come esplicitato nelle slide di SDG (\"Analysis spectrum\"), l'Advanced Analytics copre l'intero spettro diviso in quattro classi fondamentali: Descrittiva (cosa è successo), Diagnostica (perché è successo), Predittiva (succederà di nuovo?) e Prescrittiva (come dovrei intervenire). L'opzione C (\"Reverse analytics\") è un termine inventato usato come trabocchetto nei test."
   },
@@ -1993,8 +1993,8 @@
     "source": "April 2024 Mid-Term",
     "weight": 1.0,
     "correct_answers": [
-      "D",
-      "B"
+      "B",
+      "D"
     ],
     "explanation": "La Business Intelligence tradizionale si ferma all'analisi del passato (Descrittiva e Diagnostica). L'Advanced Analytics *aggiunge* (add to) a queste le capacità orientate al futuro, ovvero l'analisi Predittiva e Prescrittiva."
   },
@@ -2022,7 +2022,7 @@
       "A": "BI is a set of functionalities that allow users to explore data and run new analyses.",
       "B": "BI has a focus on reporting, leveraging on descriptive and diagnostic analytics.",
       "C": "BI has a focus on advanced analytics, with a focus on predictive and prescriptive capabilities.",
-      "D": "BI covers the whole spectrum of advanced analytics, descriptive, diagnostic, predictive and prescriptive."
+      "D": "BI covers the whole spectrum of advanced analytics, descriptive, diagnostic, predictive and prescriptive. 8. SDG Questions"
     },
     "source": "June 2024; July 2024; June 2024 (bis1_June)",
     "weight": 1.4,
@@ -2076,9 +2076,9 @@
     "source": "September 2024",
     "weight": 1.0,
     "correct_answers": [
+      "B",
       "D",
-      "A",
-      "B"
+      "A"
     ],
     "explanation": "Queste tre opzioni descrivono le funzionalità reali di Power BI per la collaborazione, l'esplorazione dei dati e la creazione di dashboard. L'opzione C (\"Web publishing to create websites based on reports\") è un distrattore errato: Power BI permette di pubblicare report sul web, ma *non* è uno strumento per \"creare siti web\"."
   },
@@ -2095,8 +2095,8 @@
     "weight": 2.0,
     "correct_answers": [
       "D",
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Nella prima fase del ciclo di vita della BI (Requirements gathering), ci si concentra sulle necessità del business e sui dati. Bisogna identificare quali sono le domande di business, quali dati si hanno a disposizione e se questi sono sufficienti. Non ci si occupa in questa fase preliminare dei componenti hardware (Opzione B)."
   },
@@ -2129,8 +2129,8 @@
     "weight": 1.2,
     "correct_answers": [
       "D",
-      "C",
-      "B"
+      "B",
+      "C"
     ],
     "explanation": "Secondo il diagramma che illustra il \"BI Lifecycle\" (il viaggio per estrarre valore dai dati) presentato da SDG, le fasi del ciclo includono esplicitamente: raccolta requisiti, *data ingestion and processing*, *data exploration*, e *data analysis*. L'opzione \"Data planning\" (A) non fa parte di questo specifico ciclo."
   },
@@ -2163,9 +2163,9 @@
     "source": "June 2025",
     "weight": 1.0,
     "correct_answers": [
+      "B",
       "D",
-      "A",
-      "B"
+      "A"
     ],
     "explanation": "Nelle slide \"Data = Value ? Understanding the Journey\", SDG elenca esattamente queste linee guida (Key Considerations): bisogna partire da dati di alta qualità (accurate/reliable), capire il contesto (context matters) e concentrarsi sui dati che hanno un impatto diretto sugli obiettivi di business. \"Provide a precise definition of data requirements\" non è uno di questi quattro pilastri."
   },
@@ -2182,9 +2182,9 @@
     "weight": 1.2,
     "correct_answers": [
       "D",
-      "A",
+      "B",
       "C",
-      "B"
+      "A"
     ],
     "explanation": "L'approccio all'Advanced Business Analytics di SDG copre l'intero spettro dell'analisi dei dati, che si compone esattamente di queste quattro grandi tipologie."
   },
@@ -2201,8 +2201,8 @@
     "weight": 1.0,
     "correct_answers": [
       "D",
-      "A",
-      "C"
+      "C",
+      "A"
     ],
     "explanation": "Esattamente come visto nella parte di Reply, anche nella slide di SDG dedicata al concetto di \"Garbage in, garbage out\", la qualità del dato viene definita attraverso fattori specifici: affidabilità, accuratezza, **completezza** (completeness), coerenza, **tempestività** (timeliness) e **assenza di errori** (absence of errors). \"Persistency\" (Persistenza) non è una misura di qualità del dato."
   }

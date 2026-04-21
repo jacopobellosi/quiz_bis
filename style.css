@@ -198,8 +198,8 @@ button {
     gap: 0.5rem;
     font-size: 1.25rem;
     font-weight: 600;
-    color: #f8fafc;
-    background: rgba(255,255,255,0.05);
+    color: var(--text-primary);
+    background: rgba(0,0,0,0.05);
     padding: 0.5rem 1rem;
     border-radius: 8px;
 }
@@ -423,6 +423,21 @@ button {
     font-size: 0.8rem;
     font-weight: 600;
     margin-bottom: 1rem;
+}
+
+.review-status.correct-status {
+    background: var(--success-color);
+}
+
+.topic-dropdown {
+    width: 100%;
+    padding: 0.75rem;
+    border-radius: 8px;
+    border: 1px solid var(--glass-border);
+    background: var(--bg-secondary);
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 1rem;
 }
 
 .review-explanation {
