@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Simulator | Business Information System 1</title>
+    <!-- Modern Font: Inter -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        
+        <!-- START SCREEN -->
+        <div id="start-screen" class="screen active">
+            <div class="glass-panel text-center">
+                <h1 class="gradient-text">Simulatore d'Esame</h1>
+                <p class="subtitle">Business Information System 1</p>
+                
+                <div class="info-badges">
+                    <span class="badge">25 Domande</span>
+                    <span class="badge">Risposta Multipla</span>
+                    <span class="badge">Criterio Rigido</span>
+                </div>
+                
+                <p class="description">
+                    <strong>Come Funziona:</strong><br>
+                    Se c'è una sola risposta corretta, troverai dei <strong>pallini rotondi</strong> (puoi selezionare una sola opzione).<br>
+                    Se ci sono più risposte corrette, troverai delle <strong>caselle quadrate</strong>. In tal caso, prende punti <strong>SOLO</strong> chi seleziona con esattezza <strong>tutte</strong> le opzioni corrette (senza spuntare nessuna opzione errata).
+                </p>
+
+                <div class="disclaimer-box">
+                    <strong>⚠️ Attenzione:</strong> In caso si pensi che una domanda sia sbagliata o corretta male, sei pregato di ricontrollare bene le fonti. Il sistema applica un metro di giudizio rigidissimo!
+                </div>
+                
+                <button id="btn-start" class="btn-primary wow-btn">
+                    <span>Avvia Simulazione</span>
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+                </button>
+            </div>
+        </div>
+
+        <!-- QUIZ SCREEN -->
+        <div id="quiz-screen" class="screen">
+            <div class="quiz-header glass-panel">
+                <div class="timer">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                    <span id="time-display">00:00</span>
+                </div>
+                <div class="progress">
+                    <span>Domande da completare: 25</span>
+                </div>
+                <button id="btn-finish" class="btn-secondary">Termina ed Invia</button>
+            </div>
+            
+            <div id="questions-container" class="questions-list">
+                <!-- Domande generate dinamicamente -->
+            </div>
+        </div>
+
+        <!-- RESULTS SCREEN -->
+        <div id="result-screen" class="screen">
+            <div class="glass-panel result-header">
+                <h2 class="gradient-text">Risultati Simulazione</h2>
+                
+                <div class="stats-grid">
+                    <div class="stat-box">
+                        <span class="stat-label">Punteggio</span>
+                        <div class="stat-value" id="score-display">0 / 25</div>
+                    </div>
+                    <div class="stat-box">
+                        <span class="stat-label">Tempo Impiegato</span>
+                        <div class="stat-value" id="final-time-display">00:00</div>
+                    </div>
+                </div>
+                
+                <button id="btn-restart" class="btn-primary">Nuova Simulazione</button>
+            </div>
+
+            <div class="glass-panel review-section mt-4">
+                <h3>Revisione Errori</h3>
+                <div id="review-container" class="review-list">
+                    <!-- Errori generati dinamicamente -->
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+    <!-- Modals or overlays can go here -->
+
+    <script src="app.js"></script>
+</body>
+</html>
