@@ -483,7 +483,7 @@
   },
   {
     "id": "30",
-    "text": "What are correct statements on the product structure (catalog information)? 2. Operational Manufacturing Portfolio",
+    "text": "What are correct statements on the product structure (catalog information)?",
     "options": {
       "A": "The product structure is used to record transactions.",
       "B": "The product structure is used in MRP.",
@@ -709,7 +709,7 @@
     "id": "43",
     "text": "What are the main differences between interfunctional information processes in manufacturing and services?",
     "options": {
-      "A": "In services, operations management is replaced by knowledge management. 3. Operational Portfolio in Service Companies",
+      "A": "In services, operations management is replaced by knowledge management.",
       "B": "In services, materials management is replaced by knowledge management.",
       "C": "In services, materials management and operations management coincide.",
       "D": "In services, order management and operations management coincide."
@@ -931,7 +931,7 @@
     "id": "56",
     "text": "What are the three levels of the traditional control model in executive information systems?",
     "options": {
-      "A": "Strategic control. 4. Executive Portfolio",
+      "A": "Strategic control.",
       "B": "Operational control.",
       "C": "Management control.",
       "D": "Administrative control."
@@ -1170,7 +1170,7 @@
     "text": "What is process prescriptiveness in ERPs?",
     "options": {
       "A": "Process prescriptiveness refers to the fact that ERPs are packages embedding predefined service processes.",
-      "B": "Process prescriptiveness refers to the fact that ERPs are packages embedding a process logic that is predefined (unlike custom-made software which is designed to embed a specific client's processes). 5. ERPs",
+      "B": "Process prescriptiveness refers to the fact that ERPs are packages embedding a process logic that is predefined (unlike custom-made software which is designed to embed a specific client's processes).",
       "C": "Process prescriptiveness refers to the fact that ERPs are packages embedding predefined operational management rules.",
       "D": "Process prescriptiveness refers to the fact that ERPs are packages embedding predefined procurement processes."
     },
@@ -1327,7 +1327,7 @@
   },
   {
     "id": "79",
-    "text": "What are typical modules of operational CRM? 6. CRMs",
+    "text": "What are typical modules of operational CRM?",
     "options": {
       "A": "Call center.",
       "B": "Mobile.",
@@ -1712,7 +1712,7 @@
     "text": "According to Reply's perspective, what is the best contract model when you are developing a software application and the project requirements are expected to evolve during the development process?",
     "options": {
       "A": "Turnkey.",
-      "B": "Licensing. 7. Reply's Questions",
+      "B": "Licensing.",
       "C": "Time and material.",
       "D": "Service."
     },
@@ -2022,7 +2022,7 @@
       "A": "BI is a set of functionalities that allow users to explore data and run new analyses.",
       "B": "BI has a focus on reporting, leveraging on descriptive and diagnostic analytics.",
       "C": "BI has a focus on advanced analytics, with a focus on predictive and prescriptive capabilities.",
-      "D": "BI covers the whole spectrum of advanced analytics, descriptive, diagnostic, predictive and prescriptive. 8. SDG Questions"
+      "D": "BI covers the whole spectrum of advanced analytics, descriptive, diagnostic, predictive and prescriptive."
     },
     "source": "June 2024; July 2024; June 2024 (bis1_June)",
     "weight": 1.4,
