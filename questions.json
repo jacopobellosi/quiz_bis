@@ -1821,7 +1821,7 @@
     "weight": 1.0,
     "correct_answers": [
       "A",
-       D"
+      "D"
     ],
     "explanation": "Power BI è uno strumento di visualizzazione dei dati e cruscotti. Non è un ambiente di sviluppo (IDE) per sviluppatori Python (Opzione B) né uno strumento per supportare le attività operative quotidiane di transazione (Opzione C). *(Nota: sebbene in alcuni contesti più ampi Microsoft definisca Power BI come piattaforma \"unificata e scalabile\", nei quiz d'esame forniti la D è l'unica esplicitamente segnata come esatta).*"
   },
