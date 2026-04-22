@@ -52,7 +52,7 @@
     "id": "4",
     "text": "Agency costs emerge every time that...",
     "options": {
-      "A": "There exist transaction costs inside the organization. BIS 1 – Past Exam Questions by Topic",
+      "A": "There exist transaction costs inside the organization.",
       "B": "Environmental uncertainty increases.",
       "C": "Uncertainty related to the nature of tasks increases.",
       "D": "Decisions are delegated to lower hierarchical levels."
@@ -126,7 +126,7 @@
     "source": "April 2024 Mid-Term; April 2024 Exam",
     "weight": 1.05,
     "correct_answers": [
-      "B"
+      "C"
     ],
     "explanation": "In condizioni di mercato perfette (o molto vicine alla perfezione, come l'acquisto di un bene di largo consumo come un dentifricio), la fase di negoziazione non avviene perché la scelta si basa unicamente sul prezzo di mercato già stabilito."
   },
