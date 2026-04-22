@@ -1810,7 +1810,7 @@
   },
   {
     "id": "107",
-    "text": "According to Reply's perspective, what are correct statements on Power BI?",
+    "text": "According to SDG perspective, what are correct statements on Power BI?",
     "options": {
       "A": "Power BI is a unified and scalable platform for self-service and enterprise business intelligence (BI).",
       "B": "Power BI is an Integrated Development Environment designed for Python developers.",
@@ -1820,7 +1820,8 @@
     "source": "April 2025 Mid-Term (CORRECT-QUESTIONS)",
     "weight": 1.0,
     "correct_answers": [
-      "D"
+      "A",
+       D"
     ],
     "explanation": "Power BI è uno strumento di visualizzazione dei dati e cruscotti. Non è un ambiente di sviluppo (IDE) per sviluppatori Python (Opzione B) né uno strumento per supportare le attività operative quotidiane di transazione (Opzione C). *(Nota: sebbene in alcuni contesti più ampi Microsoft definisca Power BI come piattaforma \"unificata e scalabile\", nei quiz d'esame forniti la D è l'unica esplicitamente segnata come esatta).*"
   },
